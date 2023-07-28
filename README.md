@@ -1,2 +1,2 @@
 # Chessboard
-a Chessboard design with HTML and CSS
+A Chessboard design with HTML and CSS
